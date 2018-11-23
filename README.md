@@ -1,0 +1,2 @@
+# shortlinker.cf
+shortlinker
